@@ -1,0 +1,12 @@
+This modlue is very help full in vizvalization of the changes that take place 
+durring each itteration.
+
+This containes graphs of:
+
+ 1.Change_in_theta_of_layer1():
+ 
+ 2. Change_in_error_with_itterationes()
+ 
+ 3. Change_in_pridction():
+ 
+ 4. Cost_FUNTION():
